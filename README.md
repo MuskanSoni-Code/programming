@@ -1,2 +1,3 @@
 # programming
 JS Bill Calculator 🧮📅
+using JS 🧮💻
